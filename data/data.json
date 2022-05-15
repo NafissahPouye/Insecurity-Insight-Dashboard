@@ -1,0 +1,1613 @@
+[
+  {
+    "Country": "Afghanistan",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 107,
+    "Health_Workers_Killed": 39,
+    "Health_Workers_Kidnapped": 8,
+    "Health_Workers_Injured": 32,
+    "Health_Facilities_Damaged_or_Destroyed": 24
+  },
+  {
+    "Country": "Afghanistan",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 106,
+    "Health_Workers_Killed": 19,
+    "Health_Workers_Kidnapped": 12,
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 5
+  },
+  {
+    "Country": "Afghanistan",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 101,
+    "Health_Workers_Killed": 25,
+    "Health_Workers_Kidnapped": 6,
+    "Health_Workers_Injured": 15,
+    "Health_Facilities_Damaged_or_Destroyed": 10
+  },
+  {
+    "Country": "Afghanistan",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 98,
+    "Health_Workers_Killed": 19,
+    "Health_Workers_Kidnapped": 17,
+    "Health_Workers_Injured": 25,
+    "Health_Facilities_Damaged_or_Destroyed": 8
+  },
+  {
+    "Country": "Afghanistan",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 66,
+    "Health_Workers_Killed": 8,
+    "Health_Workers_Kidnapped": 16,
+    "Health_Workers_Injured": 6,
+    "Health_Facilities_Damaged_or_Destroyed": 14
+  },
+  {
+    "Country": "Afghanistan",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Algeria",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 3,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 13,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 5,
+    "Health_Facilities_Damaged_or_Destroyed": 9
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 46,
+    "Health_Workers_Killed": 10,
+    "Health_Workers_Kidnapped": 36,
+    "Health_Workers_Injured": 11,
+    "Health_Facilities_Damaged_or_Destroyed": 12
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 27,
+    "Health_Workers_Killed": 5,
+    "Health_Workers_Kidnapped": 19,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 17,
+    "Health_Workers_Killed": 25,
+    "Health_Workers_Kidnapped": 3,
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 3
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 7,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 4,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 17,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 8,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 4
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 14,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 4
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 8,
+    "Health_Workers_Killed": 3,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 6,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 3,
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "CAR",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 107,
+    "Health_Workers_Killed": 4,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": 16,
+    "Health_Facilities_Damaged_or_Destroyed": 8
+  },
+  {
+    "Country": "CAR",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 52,
+    "Health_Workers_Killed": 8,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "CAR",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 47,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 7
+  },
+  {
+    "Country": "CAR",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 13,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": 5,
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "CAR",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 8,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": 7,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Chad",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Chechnya",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Chile",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "China",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 8,
+    "Health_Workers_Killed": 6,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 8,
+    "Health_Workers_Killed": 4,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "DRC",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 434,
+    "Health_Workers_Killed": 24,
+    "Health_Workers_Kidnapped": 16,
+    "Health_Workers_Injured": 64,
+    "Health_Facilities_Damaged_or_Destroyed": 63
+  },
+  {
+    "Country": "DRC",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 127,
+    "Health_Workers_Killed": 5,
+    "Health_Workers_Kidnapped": 28,
+    "Health_Workers_Injured": 26,
+    "Health_Facilities_Damaged_or_Destroyed": 25
+  },
+  {
+    "Country": "DRC",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 81,
+    "Health_Workers_Killed": 24,
+    "Health_Workers_Kidnapped": 17,
+    "Health_Workers_Injured": 27,
+    "Health_Facilities_Damaged_or_Destroyed": 22
+  },
+  {
+    "Country": "DRC",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 24,
+    "Health_Workers_Killed": 3,
+    "Health_Workers_Kidnapped": 8,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 4
+  },
+  {
+    "Country": "DRC",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 21,
+    "Health_Workers_Killed": 3,
+    "Health_Workers_Kidnapped": 4,
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 4
+  },
+  {
+    "Country": "DRC",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Egypt",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 18,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 4
+  },
+  {
+    "Country": "Egypt",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Egypt",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Egypt",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Egypt",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 55,
+    "Health_Workers_Killed": 8,
+    "Health_Workers_Kidnapped": 6,
+    "Health_Workers_Injured": 5,
+    "Health_Facilities_Damaged_or_Destroyed": 72
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 6,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 3
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Greece",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Greece",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Haiti",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 15,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": 8,
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Haiti",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 4,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 3,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "India",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 61,
+    "Health_Workers_Killed": 4,
+    "Health_Workers_Kidnapped": 3,
+    "Health_Workers_Injured": 17,
+    "Health_Facilities_Damaged_or_Destroyed": 12
+  },
+  {
+    "Country": "India",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "India",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Iran",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 33,
+    "Health_Workers_Killed": 8,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 17,
+    "Health_Facilities_Damaged_or_Destroyed": 19
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 12,
+    "Health_Workers_Killed": 5,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 9,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 6,
+    "Health_Workers_Killed": 4,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 4
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 5,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Lebanon",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Lebanon",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Libya",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 77,
+    "Health_Workers_Killed": 15,
+    "Health_Workers_Kidnapped": 4,
+    "Health_Workers_Injured": 23,
+    "Health_Facilities_Damaged_or_Destroyed": 24
+  },
+  {
+    "Country": "Libya",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 73,
+    "Health_Workers_Killed": 17,
+    "Health_Workers_Kidnapped": 7,
+    "Health_Workers_Injured": 57,
+    "Health_Facilities_Damaged_or_Destroyed": 5
+  },
+  {
+    "Country": "Libya",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 47,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 10,
+    "Health_Facilities_Damaged_or_Destroyed": 5
+  },
+  {
+    "Country": "Libya",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 15,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 7,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Libya",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 4,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Libya",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Macedonia",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Madagascar",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Mali",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 28,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": 5,
+    "Health_Workers_Injured": 4,
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Mali",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 18,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": 29,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 5
+  },
+  {
+    "Country": "Mali",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 16,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": 3,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Mali",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 13,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 6,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Mali",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 11,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Mali",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 16,
+    "Health_Workers_Killed": 7,
+    "Health_Workers_Kidnapped": 13,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 13,
+    "Health_Workers_Killed": 6,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 3
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 14,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 13
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 411,
+    "Health_Workers_Killed": 29,
+    "Health_Workers_Kidnapped": 4,
+    "Health_Workers_Injured": 36,
+    "Health_Facilities_Damaged_or_Destroyed": 146
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 17,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 9
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 4,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 4,
+    "Health_Workers_Killed": 7,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 4
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Niger",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 8,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Niger",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 4,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Niger",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 4,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Niger",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 49,
+    "Health_Workers_Killed": 6,
+    "Health_Workers_Kidnapped": 30,
+    "Health_Workers_Injured": 5,
+    "Health_Facilities_Damaged_or_Destroyed": 16
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 43,
+    "Health_Workers_Killed": 8,
+    "Health_Workers_Kidnapped": 18,
+    "Health_Workers_Injured": 8,
+    "Health_Facilities_Damaged_or_Destroyed": 8
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 29,
+    "Health_Workers_Killed": 8,
+    "Health_Workers_Kidnapped": 14,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 4
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 23,
+    "Health_Workers_Killed": 6,
+    "Health_Workers_Kidnapped": 21,
+    "Health_Workers_Injured": 4,
+    "Health_Facilities_Damaged_or_Destroyed": 4
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 19,
+    "Health_Workers_Killed": 5,
+    "Health_Workers_Kidnapped": 7,
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 4
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 6,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "OPT",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 308,
+    "Health_Workers_Killed": 3,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 564,
+    "Health_Facilities_Damaged_or_Destroyed": 7
+  },
+  {
+    "Country": "oPt",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 226,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 304,
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "OPT",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 152,
+    "Health_Workers_Killed": 5,
+    "Health_Workers_Kidnapped": 0,
+    "Health_Workers_Injured": 58,
+    "Health_Facilities_Damaged_or_Destroyed": 32
+  },
+  {
+    "Country": "OPT",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 93,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 24,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "OPT",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 61,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 28,
+    "Health_Facilities_Damaged_or_Destroyed": 5
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 37,
+    "Health_Workers_Killed": 11,
+    "Health_Workers_Kidnapped": 4,
+    "Health_Workers_Injured": 9,
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 23,
+    "Health_Workers_Killed": 12,
+    "Health_Workers_Kidnapped": 4,
+    "Health_Workers_Injured": 7,
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 12,
+    "Health_Workers_Killed": 4,
+    "Health_Workers_Kidnapped": 3,
+    "Health_Workers_Injured": 14,
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 11,
+    "Health_Workers_Killed": 7,
+    "Health_Workers_Kidnapped": 4,
+    "Health_Workers_Injured": 5,
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 7,
+    "Health_Workers_Killed": 3,
+    "Health_Workers_Kidnapped": 5,
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 6,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 7,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 5,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Somalia",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 12,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": 6,
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 6
+  },
+  {
+    "Country": "Somalia",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 10,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": 5,
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Somalia",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 10,
+    "Health_Workers_Killed": 6,
+    "Health_Workers_Kidnapped": 11,
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Somalia",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 4,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "Somalia",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 5,
+    "Health_Workers_Kidnapped": 4,
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Somalia",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 38,
+    "Health_Workers_Killed": 13,
+    "Health_Workers_Kidnapped": 14,
+    "Health_Workers_Injured": 10,
+    "Health_Facilities_Damaged_or_Destroyed": 3
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 29,
+    "Health_Workers_Killed": 12,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 12,
+    "Health_Facilities_Damaged_or_Destroyed": 4
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 18,
+    "Health_Workers_Killed": 19,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": 8,
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 15,
+    "Health_Workers_Killed": 9,
+    "Health_Workers_Kidnapped": 14,
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 2
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 7,
+    "Health_Workers_Killed": 4,
+    "Health_Workers_Kidnapped": 3,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 5
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 3,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 3
+  },
+  {
+    "Country": "Sudan",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 52,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 17,
+    "Health_Facilities_Damaged_or_Destroyed": 25
+  },
+  {
+    "Country": "Sudan",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 37,
+    "Health_Workers_Killed": 3,
+    "Health_Workers_Kidnapped": 4,
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 11
+  },
+  {
+    "Country": "Sudan",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 11,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Sudan",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 7,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 5,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Sudan",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": 1,
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Swaziland",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 31,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Syria",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 274,
+    "Health_Workers_Killed": 95,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 29,
+    "Health_Facilities_Damaged_or_Destroyed": 149
+  },
+  {
+    "Country": "Syria",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 259,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Syria",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 257,
+    "Health_Workers_Killed": 88,
+    "Health_Workers_Kidnapped": 13,
+    "Health_Workers_Injured": 75,
+    "Health_Facilities_Damaged_or_Destroyed": 135
+  },
+  {
+    "Country": "Syria",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 147,
+    "Health_Workers_Killed": 41,
+    "Health_Workers_Kidnapped": 4,
+    "Health_Workers_Injured": 31,
+    "Health_Facilities_Damaged_or_Destroyed": 90
+  },
+  {
+    "Country": "Syria",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 121,
+    "Health_Workers_Killed": 20,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 36,
+    "Health_Facilities_Damaged_or_Destroyed": 38
+  },
+  {
+    "Country": "Syria",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 57,
+    "Health_Workers_Killed": 13,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 45,
+    "Health_Facilities_Damaged_or_Destroyed": 14
+  },
+  {
+    "Country": "The Philippines",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Turkey",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 6,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Turkey",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Turkey",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 4,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 11,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 7,
+    "Health_Facilities_Damaged_or_Destroyed": 5
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 131
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 2,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 1,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "USA",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 10,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 7,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "USA",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 3,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 1
+  },
+  {
+    "Country": "Venezuela",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 2,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 2,
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Venezuela",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 1,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 0
+  },
+  {
+    "Country": "Yemen",
+    "Year": 2020,
+    "Attacks_on_Health_Care": 81,
+    "Health_Workers_Killed": 13,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 6,
+    "Health_Facilities_Damaged_or_Destroyed": 27
+  },
+  {
+    "Country": "Yemen",
+    "Year": 2018,
+    "Attacks_on_Health_Care": 53,
+    "Health_Workers_Killed": 8,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 4,
+    "Health_Facilities_Damaged_or_Destroyed": 27
+  },
+  {
+    "Country": "Yemen",
+    "Year": 2019,
+    "Attacks_on_Health_Care": 35,
+    "Health_Workers_Killed": 4,
+    "Health_Workers_Kidnapped": 2,
+    "Health_Workers_Injured": 4,
+    "Health_Facilities_Damaged_or_Destroyed": 10
+  },
+  {
+    "Country": "Yemen",
+    "Year": 2017,
+    "Attacks_on_Health_Care": 20,
+    "Health_Workers_Killed": 0,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": "",
+    "Health_Facilities_Damaged_or_Destroyed": 3
+  },
+  {
+    "Country": "Yemen",
+    "Year": 2021,
+    "Attacks_on_Health_Care": 20,
+    "Health_Workers_Killed": 3,
+    "Health_Workers_Kidnapped": 5,
+    "Health_Workers_Injured": 6,
+    "Health_Facilities_Damaged_or_Destroyed": 8
+  },
+  {
+    "Country": "Yemen",
+    "Year": 2016,
+    "Attacks_on_Health_Care": 5,
+    "Health_Workers_Killed": 1,
+    "Health_Workers_Kidnapped": "",
+    "Health_Workers_Injured": 3,
+    "Health_Facilities_Damaged_or_Destroyed": 5
+  }
+]
